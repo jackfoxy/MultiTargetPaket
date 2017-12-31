@@ -1,0 +1,29 @@
+type file
+id jftest
+title
+    jftest
+owners
+    jf
+authors 
+    jf
+projectUrl
+    https://github.com/jackfoxy/jftest
+iconUrl
+    https://raw.githubusercontent.com/jackfoxy/jftest/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/jackfoxy/jftest/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+language
+    F#
+copyright
+    Copyright 2017
+tags
+    jf
+summary
+    jf
+description
+    jf
+
+files
+	../../bin/jftest ==> lib

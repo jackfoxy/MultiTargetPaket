@@ -1,0 +1,11 @@
+framework: auto-detect
+source https://nuget.org/api/v2
+source https://ci.appveyor.com/nuget/fsharp-formatting
+
+nuget FSharp.Core
+nuget Argu
+
+nuget FAKE
+nuget FSharp.Formatting 3.0.0-beta08 beta
+
+github fsharp/FAKE modules/Octokit/Octokit.fsx
